@@ -1,5 +1,5 @@
 /* Keeps a copy of the Bee Guy calendar on the phone so it opens with no signal. */
-const CACHE = "beeguy-876601763d62";
+const CACHE = "beeguy-bbb6fcf8d399";
 const FILES = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {

@@ -1,6 +1,6 @@
 {
-  "name": "Bee Guy Bloom Calendar",
-  "short_name": "Bee Guy",
+  "name": "Bloom Calendar",
+  "short_name": "Bloom Calendar",
   "description": "Sandhills bloom dates, pollen colors, hive jobs and reminders for beekeepers.",
   "start_url": "./",
   "scope": "./",
